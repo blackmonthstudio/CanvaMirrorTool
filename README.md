@@ -10,9 +10,7 @@ At present, the preview is mainly handled within a single canvas, while the fina
 
 Additionally, I would like to mention that I only started learning React and the Canva plugin for this interview. If there are any unreasonable implementations, please feel free to leave me a comment. Thank you!
 
-[DemoVideo in docs folder]
-
-<video src="./docs/Demo_video.mp4" controls width="600"></video>
+### DemoVideo in docs folder
 
 ### The original Canva document is as follows ⬇️
 
