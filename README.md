@@ -1,6 +1,20 @@
 #  Mirror Flip Mini-Program For Get Job
 
+### Hello, 😊
 
+This project is a recent interview assignment I received. Its main functionality is to use the Canva SDK and canvas to implement image flipping and transparency adjustment.
+
+The current implementation follows the interview requirements. However, due to communication issues, I was unable to fully understand the specific requirements in a timely manner. There could be better ways to achieve the functionality. For example, previewing could be handled using CSS properties, with the final image generated via canvas. Alternatively, using multiple canvas layers could improve scalability for future feature expansions.
+
+At present, the preview is mainly handled within a single canvas, while the final output is separately rendered as a high-resolution image and added to the draft.
+
+Additionally, I would like to mention that I only started learning React and the Canva plugin for this interview. If there are any unreasonable implementations, please feel free to leave me a comment. Thank you!
+
+[DemoVideo in docs folder]
+
+<video src="./docs/Demo_video.mp4" controls width="600"></video>
+
+### The original Canva document is as follows ⬇️
 
 ---
 
