@@ -1,0 +1,37 @@
+.rootWrapper {
+  height: 100%;
+  overflow-y: hidden;
+  padding:12px 12px 0 0!important;
+  &>div>div {
+    margin-bottom: 12px!important;
+  }
+  &>button:not(:last-child) {
+    margin-bottom: 12px!important;
+  }
+}
+
+.selectTipContainer {
+  margin-bottom: 12px!important;
+}
+
+.centerInPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.renderContainer {
+  margin-bottom: 12px!important;
+  height: 246px;
+  box-sizing: border-box!important;
+  background-color: var(--ui-kit-color-neutral-low);
+  border: 1px solid var(--ui-kit-color-border);
+  padding: 8px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
+
+.renderContainer>div {
+  height: 100%;
+  width: 100%;
+}
